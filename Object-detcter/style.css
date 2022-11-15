@@ -1,0 +1,16 @@
+body{
+    background-image: cover;
+}
+
+#Living_room, #My_room, #Parents_room, #Brothers_room, 
+#Kitchen_room, #Garden, #Bath_room
+{
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+    background-image: cover;
+    background-color:rgb(246, 8, 155) ;
+}
+
+
+
